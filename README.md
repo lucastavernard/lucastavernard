@@ -7,7 +7,7 @@
 ## Formação Acadêmica
 - 🎓 **Curso:** Ciência da Computação
 - 🏫 **Instituição:** UNAMA
-- 📅 **Semestre:** 7/8
+- 📅 **Semestre:** 8/8
 
 ## Experiência Profissional
 - 💼 **Empresa:** PRODEPA
